@@ -11,7 +11,7 @@ class FileMover {
 
    public function __invoke(string $fileName, string $surname, string $given)
    {
-      $dir = $surname . ", " $given; 
+      $dir = $surname . ", " . $given; 
 
       if (!is_dir($dir))
           mkdir($dir, 0777);
