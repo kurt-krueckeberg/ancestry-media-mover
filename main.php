@@ -5,9 +5,10 @@ use RootsMagic\{FileReader, FileMover, MediaExtractor};
 include 'vendor/autoload.php';
 
 locale_set_default('de_DE');
-$ancestry_folder = "~/d/genealogy/roots-magic-09-06-2023_media/";
 
-$filesHandler = new MediaExtractor(new FileMover("./roots-magic-09-06-2023_media/"));
+//$ancestry_folder = "~/d/genealogy/roots-magic-09-06-2023_media/";
+
+$filesHandler = new MediaExtractor("./roots-magic-09-06-2023_media/");
 
 $file = new FileReader('output.txt');
 

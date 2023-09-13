@@ -7,12 +7,31 @@ class MediaExtractor {
   private string $media_file;
   private string $surname;
   private string $givenNames;
-  private  $file_mover;
+  private string $src_dir;
 
-  public function __construct(callable $func)
+  public function __construct(string $srcDir)
   {
       $this->media_file = '';
       $this->file_mover = $func;
+      $this->src_dir = $srcDir;
+  }
+
+  // Todo: Are absolute paths required?
+  private function copy(string $fileName, string $surname, string $given)
+  {
+     $dir = $surname . ", " . $given; 
+
+     if (!is_dir($dir))
+         mkdir($dir, 0777);
+
+     $destName =  "./" .$dir . "/" . $fileName;
+    
+     if (!file_exists($destName))  {
+
+         $fromName = $this->src_dir . $fileName;
+
+         copy($fromName, $destName);
+     } 
   }
 
   private function process(string $name)
@@ -26,7 +45,7 @@ class MediaExtractor {
      // + 2 enables us to skip over ", "
      $given = substr($name, $comma_pos + 2); 
      
-     ($this->file_mover)($this->media_file, $surname, $given);
+     $this->copy($this->media_file, $surname, $given);
   }
 
   public function __invoke(string $line)
