@@ -9,6 +9,7 @@ class FileMover {
       $this->src_dir = $srcDir;
    }
 
+   // Todo: Are absolute paths required?
    public function __invoke(string $fileName, string $surname, string $given)
    {
       $dir = $surname . ", " . $given; 
@@ -16,11 +17,11 @@ class FileMover {
       if (!is_dir($dir))
           mkdir($dir, 0777);
 
-      $destName =  $dir . "/" . $fileName;
+      $destName =  "./" .$dir . "/" . $fileName;
      
       if (!file_exists($destName))  {
 
-          $fromName = $this->srcDir . "/" . $fileName;
+          $fromName = $this->src_dir . $fileName;
 
           copy($fromName, $destName);
       } 

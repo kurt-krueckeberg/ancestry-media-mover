@@ -15,18 +15,18 @@ class MediaExtractor {
       $this->file_mover = $func;
   }
 
-  private function create_person_name(string $nameStr)
+  private function process(string $name)
   {
-     $comma_pos = strpos($nameStr, ',');
+     $comma_pos = strpos($name, ',');
  
-     $surname = strtolower(substr($nameStr, 0, $comma_pos));
+     $surname = strtolower(substr($name, 0, $comma_pos));
      
-     $this->surname = ucfirst($surname);
+     $surname = ucfirst($surname);
 
      // + 2 enables us to skip over ", "
-     $givenNames = substr($nameStr, $comma_pos + 2); 
- 
-     $this->givenNames = substr($givenNames, 0, strpos($givenNames, "-"));
+     $given = substr($name, $comma_pos + 2); 
+     
+     ($this->file_mover)($this->media_file, $surname, $given);
   }
 
   public function __invoke(string $line)
@@ -39,11 +39,9 @@ class MediaExtractor {
     } else if ($line[5] == 'N') {
 
       // choose substring where the surname begins   
-      $person_name = substr($line, 12);
+      $person_name = substr($line, 12, strpos(substr($line, 12), '-'));
 
-      $this->create_person_name($namePart);  
-
-      $this->file_mover($this->media_file, $this->surname, $this->givenNames);
+      $this->process($person_name);     
     }
   }
 }
