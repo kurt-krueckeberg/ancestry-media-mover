@@ -1,8 +1,17 @@
 {
-    "name": "kurt-krueckeberg/ancestry-media-reworked",
+    "name":  "kurt-krueckeberg/ancestry-media-mover",
     "description": "PHP classes for Ancestry.com media download",
     "type": "library",
-    "autoload": {
+    "repositories": [
+      {
+         "type": "vcs",
+         "url": "git@github.com:kurt-krueckeberg/ancestry-media-mover.git"
+      }
+    ],
+    "require": {
+        "kurt-krueckeberg/ancestry-media-mover": "dev-main"
+    },
+     "autoload": {
         "psr-4": {
             "RootsMagic\\": "src"
         }
@@ -10,8 +19,7 @@
     "require": {
         "php": ">=8.1",
         "ext-json": "^8.1",
-        "ext-sqlite3": ">=8.1",
-        "ext-ds":">=8.1"
+        "ext-sqlite3": ">=8.1"
     },
     "license": "MIT",
     "authors": [
