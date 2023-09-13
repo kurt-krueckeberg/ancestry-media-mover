@@ -12,7 +12,6 @@ class MediaExtractor {
   public function __construct(string $srcDir)
   {
       $this->media_file = '';
-      $this->file_mover = $func;
       $this->src_dir = $srcDir;
   }
 
@@ -24,14 +23,16 @@ class MediaExtractor {
      if (!is_dir($dir))
          mkdir($dir, 0777);
 
-     $destName =  "./" .$dir . "/" . $fileName;
+     $destName = "'./$dir/$fileName'"; // <-- Didn't help.
+     echo $destName;
+     
     
      if (!file_exists($destName))  {
 
          $fromName = $this->src_dir . $fileName;
 
-         copy($fromName, $destName);
-     } 
+         $rc = copy($fromName, $destName);
+            } 
   }
 
   private function process(string $name)
