@@ -30,9 +30,10 @@ class MediaExtractor {
      if (!file_exists($destName))  {
 
          $fromName = $this->src_dir . $fileName;
+          echo "From = $fromName | Dest = $destName\n":
 
          $rc = copy($fromName, $destName);
-            } 
+     } 
   }
 
   private function process(string $name)
