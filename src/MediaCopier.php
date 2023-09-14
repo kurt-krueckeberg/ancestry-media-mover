@@ -13,12 +13,12 @@ class MediaCopier {
       $this->media_file = '';
 
       if (is_dir($srcDir) === false)
-          throw \ErrorException("The directory $srcDest does not exist.");
+          throw new \ErrorException("The directory $srcDir does not exist.");
 
       $this->src_dir = $srcDir;
 
       if (is_dir($destDir) === false)
-          throw \ErrorException("The directory $destDir does not exist.");
+          throw new \ErrorException("The directory $destDir does not exist.");
 
       $this->dest_dir = $destDir;
   }
@@ -64,7 +64,7 @@ class MediaCopier {
      // todo: The destination subdir parent needs to be $this->destDir.
      if (!is_dir($fullpath)) {
 
-        $rc = mkdir($newDir, 0777);
+        $rc = mkdir($fullpath, 0777);
 
         if ($rc == false)
            $debug = 10;
@@ -82,7 +82,7 @@ class MediaCopier {
 
          $fromFilename = "'" . $this->src_dir . $srcFile . "'";
 
-         echo "From = $fromName | Dest = $destName\n";
+         echo "From = $srcFile | Dest = $destFilename\n";
 
          $rc = copy($fromFilename, $destFilename);
      } 
