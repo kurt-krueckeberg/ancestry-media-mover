@@ -8,14 +8,16 @@ class MediaExtractor {
   private string $surname;
   private string $givenNames;
   private string $src_dir;
+  private string $dest_dir;
 
-  public function __construct(string $srcDir)
+  public function __construct(string $srcDir, string $destDir)
   {
       $this->media_file = '';
       $this->src_dir = $srcDir;
+      $this->dest_dir = $destDir;
   }
 
-  // Todo: Are absolute paths required?
+  // Todo: Change to a more specific task: 
   private function copy(string $fileName, string $surname, string $given)
   {
      $dir = $surname . ", " . $given; 
@@ -24,6 +26,7 @@ class MediaExtractor {
          mkdir($dir, 0777);
 
      $destName = "'./$dir/$fileName'"; // <-- Didn't help.
+
      echo $destName;
     
      if (!file_exists($destName))  {
