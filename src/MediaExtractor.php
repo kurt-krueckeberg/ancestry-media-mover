@@ -25,12 +25,12 @@ class MediaExtractor {
 
      $destName = "'./$dir/$fileName'"; // <-- Didn't help.
      echo $destName;
-     
     
      if (!file_exists($destName))  {
 
-         $fromName = $this->src_dir . $fileName;
-          echo "From = $fromName | Dest = $destName\n":
+         $fromName = "'" . $this->src_dir . $fileName . "'";
+
+         echo "From = $fromName | Dest = $destName\n";
 
          $rc = copy($fromName, $destName);
      } 
