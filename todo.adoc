@@ -1,7 +1,6 @@
 = Overview== Bug
 
-See "todoes" in MediaExtractor.php.
-
+Some of the image files have no surname! Perhaps make a MissingSurname folder?
 == Todo
 
 There are only about 6 or 7 files with FactTypes < 1000; i.e., not user-defined events. Of thesee, something like three are marriages 
