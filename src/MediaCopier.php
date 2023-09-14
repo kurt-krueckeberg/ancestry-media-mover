@@ -76,7 +76,7 @@ class MediaCopier {
   // Todo: Change to a more specific task: 
   private function copy(string $destFullpath, string $srcFile)
   {
-     $destFilename = $this->dest_dir . "/" . str_replace($srcFile, ' ', '-');
+     $destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $srcFile,);
 
      if (!file_exists($destFilename))  {
 
