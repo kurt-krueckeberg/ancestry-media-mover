@@ -35,11 +35,8 @@ class MediaCopier {
       // Choose substring where the surname begins   
       $person_name = substr($line, 12, strpos(substr($line, 12), '-'));
 
-      // todo: What is surname is missing?
       $fullpath = $this->createSubfolder($person_name); 
 
-      // todo: This needs more work: The source media file might have embedded spaces.
-      // These need to be removed or changed.
       $this->copy($fullpath, $this->media_file);
     }
   }
@@ -61,7 +58,6 @@ class MediaCopier {
 
      $fullpath = $this->dest_dir . "/" . $subdir;
 
-     // todo: The destination subdir parent needs to be $this->destDir.
      if (!is_dir($fullpath)) {
 
         $rc = mkdir($fullpath, 0777);
@@ -73,18 +69,22 @@ class MediaCopier {
      return $fullpath;
   }
 
-  // Todo: Change to a more specific task: 
   private function copy(string $destFullpath, string $srcFile)
   {
-     $destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $srcFile,);
+     if (!file_exists($srcFile)) {
+         echo "Cannot copy $srcFile. It does not exist.\n";
+         return;
+     }
 
-     if (!file_exists($destFilename))  {
+     $destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $srcFile);
+
+     if (!file_exists($destFilename)) {
 
          $fromFilename = "'" . $this->src_dir . $srcFile . "'";
 
          echo "Copying $fromFilename to $destFilename\n";
 
-         $rc = copy($fromFilename, $destFilename);
+         $rc = \copy($fromFilename, $destFilename);
      } 
   }
 }
