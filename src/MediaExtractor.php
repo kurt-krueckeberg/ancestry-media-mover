@@ -20,12 +20,17 @@ class MediaExtractor {
   // Todo: Change to a more specific task: 
   private function copy(string $fileName, string $surname, string $given)
   {
-     $dir = $surname . ", " . $given; 
+     $given = str_replace($given, ' ', '-');
 
-     if (!is_dir($dir))
-         mkdir($dir, 0777);
+     $subdir = $surname . "-" . $given; 
 
-     $destName = "'./$dir/$fileName'"; // <-- Didn't help.
+     $newDir = $this->dest_dir . "/" . $subdir;
+
+     // todo: The destination subdir parent needs to be $this->destDir.
+     if (!is_dir($newDir))
+         mkdir($newDir, 0777);
+
+     $destName = "'./$newDir/$fileName'"; // <-- Didn't help.
 
      echo $destName;
     
@@ -49,8 +54,16 @@ class MediaExtractor {
 
      // + 2 enables us to skip over ", "
      $given = substr($name, $comma_pos + 2); 
+
+     $given = str_replace($given, ' ', '-');
+
+     $subdir = $surname . "-" . $given; 
+
+     $fullDestDir = $this->dest_dir . "/" . $subdir;
      
-     $this->copy($this->media_file, $surname, $given);
+     // todo: This needs more work: The source media file might have embedded spaces.
+     // These need to be removed or changed.
+     $this->copy($fullDestDir, $this->media_file, $surname, $given);
   }
 
   public function __invoke(string $line)
