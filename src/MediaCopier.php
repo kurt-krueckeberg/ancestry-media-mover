@@ -27,7 +27,7 @@ class MediaCopier {
   {
     if ($line[5] == 'F') {// 'MediaFile' test
 
-      $this->media_file = substr($line, 13);
+      $this->media_file = substr($line, 12);
   
     // Test for "OwnerName".
     } else if ($line[5] == 'N') {
