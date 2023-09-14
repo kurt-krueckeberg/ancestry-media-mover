@@ -84,9 +84,12 @@ class MediaCopier {
 
      if (!file_exists($destFilename)) {
 
-         echo "Copying $srcFilename to $destFilename\n";
-
          $rc = \copy($srcFilename, $destFilename);
+/*
+         if ($rc)
+           echo "Copied $srcFilename to $destFilename\n";
+*/
+
      } 
   }
 }
