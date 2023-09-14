@@ -1,652 +1,652 @@
-MediaFile =  Anna Dudenhoefer.jpg
+MediaFile = Anna Dudenhoefer.jpg
 OwnerTypeDesc = Person
 OwnerName = RIEHL, Anna E-3132
 ------------------------
-MediaFile =  Anna Dudenhoefer.jpg
+MediaFile = Anna Dudenhoefer.jpg
 OwnerTypeDesc = Citation
 OwnerName = RIEHL, Anna E-3132 :  ANNA DUDENHOEFER citing Findagrave - Anna Dudenhoefer 7 Feb 1907
 ------------------------
-MediaFile =  Anna Dudenhoefer.jpg
+MediaFile = Anna Dudenhoefer.jpg
 OwnerTypeDesc = Event
 OwnerName = RIEHL, Anna E-3132:  ANNA DUDENHOEFER
 ------------------------
-MediaFile =  August W.jpg
+MediaFile = August W.jpg
 OwnerTypeDesc = Person
 OwnerName = BUSSE, August W-3147
 ------------------------
-MediaFile =  August W.jpg
+MediaFile = August W.jpg
 OwnerTypeDesc = Citation
 OwnerName = BUSSE, August W-3147 :  AUGUST W. BUSSE citing Findagrave - August W. Busse 1974
 ------------------------
-MediaFile =  August W.jpg
+MediaFile = August W.jpg
 OwnerTypeDesc = Event
 OwnerName = BUSSE, August W-3147:  AUGUST W. BUSSE
 ------------------------
-MediaFile =  August W.jpg
+MediaFile = August W.jpg
 OwnerTypeDesc = Person
 OwnerName = WEBER, Emilie F-3176
 ------------------------
-MediaFile =  August W.jpg
+MediaFile = August W.jpg
 OwnerTypeDesc = Citation
 OwnerName = WEBER, Emilie F-3176 :  AUGUST W. BUSSE citing Findagrave - August W. Busse
 ------------------------
-MediaFile =  August W.jpg
+MediaFile = August W.jpg
 OwnerTypeDesc = Event
 OwnerName = WEBER, Emilie F-3176:  AUGUST W. BUSSE
 ------------------------
-MediaFile =  Caroline Philippine Kruckeberg Schamerloh.jpg
+MediaFile = Caroline Philippine Kruckeberg Schamerloh.jpg
 OwnerTypeDesc = Person
 OwnerName = KRüCKEBERG, Caroline Philippine-694
 ------------------------
-MediaFile =  Caroline Philippine Kruckeberg Schamerloh.jpg
+MediaFile = Caroline Philippine Kruckeberg Schamerloh.jpg
 OwnerTypeDesc = Citation
 OwnerName = KRüCKEBERG, Caroline Philippine-694 :  CAROLINE PHILIPPINE KRUCKEBERG SCHAMERLOH citing Findagrave - Caroline Philippine Kruckeberg Schamerloh 16 Mar 1877
 ------------------------
-MediaFile =  Caroline Philippine Kruckeberg Schamerloh.jpg
+MediaFile = Caroline Philippine Kruckeberg Schamerloh.jpg
 OwnerTypeDesc = Event
 OwnerName = KRüCKEBERG, Caroline Philippine-694:  CAROLINE PHILIPPINE KRUCKEBERG SCHAMERLOH
 ------------------------
-MediaFile =  Caroline Schroeder Pape.jpg
+MediaFile = Caroline Schroeder Pape.jpg
 OwnerTypeDesc = Person
 OwnerName = SCHROEDER, Caroline-1994
 ------------------------
-MediaFile =  Caroline Schroeder Pape.jpg
+MediaFile = Caroline Schroeder Pape.jpg
 OwnerTypeDesc = Citation
 OwnerName = SCHROEDER, Caroline-1994 :  CAROLINE SCHROEDER PAPE citing Findagrave - Caroline Schroeder Pape 25 Apr 1908
 ------------------------
-MediaFile =  Caroline Schroeder Pape.jpg
+MediaFile = Caroline Schroeder Pape.jpg
 OwnerTypeDesc = Citation
 OwnerName = SCHROEDER, Caroline-1994 : BIRTH citing Findagrave - Caroline Schroeder Pape 25 Apr 1908
 ------------------------
-MediaFile =  Caroline Schroeder Pape.jpg
+MediaFile = Caroline Schroeder Pape.jpg
 OwnerTypeDesc = Event
 OwnerName = SCHROEDER, Caroline-1994:  CAROLINE SCHROEDER PAPE
 ------------------------
-MediaFile =  Catherine Whitmyer.jpg
+MediaFile = Catherine Whitmyer.jpg
 OwnerTypeDesc = Person
 OwnerName = HECKELER, Katherine-3205
 ------------------------
-MediaFile =  Catherine Whitmyer.jpg
+MediaFile = Catherine Whitmyer.jpg
 OwnerTypeDesc = Citation
 OwnerName = HECKELER, Katherine-3205 :  CATHERINE WHITMYER citing Findagrave - Catherine Whitmyer 7 Dec 1931
 ------------------------
-MediaFile =  Catherine Whitmyer.jpg
+MediaFile = Catherine Whitmyer.jpg
 OwnerTypeDesc = Event
 OwnerName = HECKELER, Katherine-3205:  CATHERINE WHITMYER
 ------------------------
-MediaFile =  Christian Baade.jpg
+MediaFile = Christian Baade.jpg
 OwnerTypeDesc = Person
 OwnerName = BAADE, Johann Friedrich Christian-2603
 ------------------------
-MediaFile =  Christian Baade.jpg
+MediaFile = Christian Baade.jpg
 OwnerTypeDesc = Person
 OwnerName = HARTMANN, Marie Sophie Elisabeth-3259
 ------------------------
-MediaFile =  Christian Baade.jpg
+MediaFile = Christian Baade.jpg
 OwnerTypeDesc = Citation
 OwnerName = HARTMANN, Marie Sophie Elisabeth-3259 :  CHRISTIAN BAADE citing Findagrave - Christian Baade
 ------------------------
-MediaFile =  Christian Baade.jpg
+MediaFile = Christian Baade.jpg
 OwnerTypeDesc = Event
 OwnerName = HARTMANN, Marie Sophie Elisabeth-3259:  CHRISTIAN BAADE
 ------------------------
-MediaFile =  Christian Ernst Gallmeier.jpg
+MediaFile = Christian Ernst Gallmeier.jpg
 OwnerTypeDesc = Person
 OwnerName = GALLMEIER, Christian-2709
 ------------------------
-MediaFile =  Christian Ernst Gallmeier.jpg
+MediaFile = Christian Ernst Gallmeier.jpg
 OwnerTypeDesc = Citation
 OwnerName = GALLMEIER, Christian-2709 : BIRTH citing Findagrave - Christian Ernst Gallmeier 3 Dec 1877
 ------------------------
-MediaFile =  Christian Ernst Gallmeier.jpg
+MediaFile = Christian Ernst Gallmeier.jpg
 OwnerTypeDesc = Citation
 OwnerName = GALLMEIER, Christian-2709 : BURIAL citing Findagrave - Christian Ernst Gallmeier 3 Dec 1877
 ------------------------
-MediaFile =  Christian Ernst Gallmeier.jpg
+MediaFile = Christian Ernst Gallmeier.jpg
 OwnerTypeDesc = Citation
 OwnerName = GALLMEIER, Christian-2709 : DEATH citing Findagrave - Christian Ernst Gallmeier 3 Dec 1877
 ------------------------
-MediaFile =  Christian Ernst Gallmeier.jpg
+MediaFile = Christian Ernst Gallmeier.jpg
 OwnerTypeDesc = Person
 OwnerName = GALLMEIER, Louise-2708
 ------------------------
-MediaFile =  Christian Ernst Gallmeier.jpg
+MediaFile = Christian Ernst Gallmeier.jpg
 OwnerTypeDesc = Citation
 OwnerName = GALLMEIER, Louise-2708 citing Findagrave - Christian Ernst Gallmeier
 ------------------------
-MediaFile =  Christopher Heckler.jpg
+MediaFile = Christopher Heckler.jpg
 OwnerTypeDesc = Person
 OwnerName = HECKELER, Christopher-3198
 ------------------------
-MediaFile =  Cutler Heckeler.jpg
+MediaFile = Cutler Heckeler.jpg
 OwnerTypeDesc = Person
 OwnerName = HECKELER, Gottlieb Cutler-3202
 ------------------------
-MediaFile =  Elenora Fahlsing.jpg
+MediaFile = Elenora Fahlsing.jpg
 OwnerTypeDesc = Person
 OwnerName = BLEEKE, Christine Sophie Eleonore-2549
 ------------------------
-MediaFile =  Elenora Fahlsing.jpg
+MediaFile = Elenora Fahlsing.jpg
 OwnerTypeDesc = Citation
 OwnerName = BLEEKE, Christine Sophie Eleonore-2549 :  ELENORA FAHLSING citing Findagrave - Elenora Fahlsing 1900
 ------------------------
-MediaFile =  Elenora Fahlsing.jpg
+MediaFile = Elenora Fahlsing.jpg
 OwnerTypeDesc = Event
 OwnerName = BLEEKE, Christine Sophie Eleonore-2549:  ELENORA FAHLSING
 ------------------------
-MediaFile =  Emilie F.jpg
+MediaFile = Emilie F.jpg
 OwnerTypeDesc = Person
 OwnerName = WEBER, Emilie F-3176
 ------------------------
-MediaFile =  Emilie F.jpg
+MediaFile = Emilie F.jpg
 OwnerTypeDesc = Citation
 OwnerName = WEBER, Emilie F-3176 :  EMILIE F. BUSSE citing Findagrave - Emilie F. Busse 1965
 ------------------------
-MediaFile =  Emilie F.jpg
+MediaFile = Emilie F.jpg
 OwnerTypeDesc = Event
 OwnerName = WEBER, Emilie F-3176:  EMILIE F. BUSSE
 ------------------------
-MediaFile =  Emma May Moon Ufer.jpg
+MediaFile = Emma May Moon Ufer.jpg
 OwnerTypeDesc = Person
 OwnerName = MOON, Emma Mae-2908
 ------------------------
-MediaFile =  Emma May Moon Ufer.jpg
+MediaFile = Emma May Moon Ufer.jpg
 OwnerTypeDesc = Citation
 OwnerName = MOON, Emma Mae-2908 :  EMMA MAY MOON UFER citing Findagrave - Emma May Moon Ufer 1957
 ------------------------
-MediaFile =  Emma May Moon Ufer.jpg
+MediaFile = Emma May Moon Ufer.jpg
 OwnerTypeDesc = Event
 OwnerName = MOON, Emma Mae-2908:  EMMA MAY MOON UFER
 ------------------------
-MediaFile =  Emma May Moon Ufer.jpg
+MediaFile = Emma May Moon Ufer.jpg
 OwnerTypeDesc = Person
 OwnerName = UFER, William Soloman-2899
 ------------------------
-MediaFile =  Emma May Moon Ufer.jpg
+MediaFile = Emma May Moon Ufer.jpg
 OwnerTypeDesc = Citation
 OwnerName = UFER, William Soloman-2899 :  EMMA MAY MOON UFER citing Findagrave - Emma May Moon Ufer
 ------------------------
-MediaFile =  Emma May Moon Ufer.jpg
+MediaFile = Emma May Moon Ufer.jpg
 OwnerTypeDesc = Event
 OwnerName = UFER, William Soloman-2899:  EMMA MAY MOON UFER
 ------------------------
-MediaFile =  Frank A Weber.jpg
+MediaFile = Frank A Weber.jpg
 OwnerTypeDesc = Person
 OwnerName = WEBER, Elisabeth-2883
 ------------------------
-MediaFile =  Frank A Weber.jpg
+MediaFile = Frank A Weber.jpg
 OwnerTypeDesc = Citation
 OwnerName = WEBER, Elisabeth-2883 :  FRANK A WEBER citing Findagrave - Frank A Weber
 ------------------------
-MediaFile =  Frank A Weber.jpg
+MediaFile = Frank A Weber.jpg
 OwnerTypeDesc = Event
 OwnerName = WEBER, Elisabeth-2883:  FRANK A WEBER
 ------------------------
-MediaFile =  Frank A Weber.jpg
+MediaFile = Frank A Weber.jpg
 OwnerTypeDesc = Person
 OwnerName = WEBER, Frank A-3173
 ------------------------
-MediaFile =  Frank A Weber.jpg
+MediaFile = Frank A Weber.jpg
 OwnerTypeDesc = Citation
 OwnerName = WEBER, Frank A-3173 :  FRANK A WEBER citing Findagrave - Frank A Weber 1932
 ------------------------
-MediaFile =  Frank A Weber.jpg
+MediaFile = Frank A Weber.jpg
 OwnerTypeDesc = Event
 OwnerName = WEBER, Frank A-3173:  FRANK A WEBER
 ------------------------
-MediaFile =  Frank A Weber.jpg
+MediaFile = Frank A Weber.jpg
 OwnerTypeDesc = Person
 OwnerName = WEBER, John George-3291
 ------------------------
-MediaFile =  Frank A Weber.jpg
+MediaFile = Frank A Weber.jpg
 OwnerTypeDesc = Citation
 OwnerName = WEBER, John George-3291 :  FRANK A WEBER citing Findagrave - Frank A Weber
 ------------------------
-MediaFile =  Frank A Weber.jpg
+MediaFile = Frank A Weber.jpg
 OwnerTypeDesc = Event
 OwnerName = WEBER, John George-3291:  FRANK A WEBER
 ------------------------
-MediaFile =  Frederick Ludwig Krueckeberg.jpg
+MediaFile = Frederick Ludwig Krueckeberg.jpg
 OwnerTypeDesc = Person
 OwnerName = KRUECKEBERG, Fredrich Ludwig-454
 ------------------------
-MediaFile =  Frederick Ludwig Krueckeberg.jpg
+MediaFile = Frederick Ludwig Krueckeberg.jpg
 OwnerTypeDesc = Citation
 OwnerName = KRUECKEBERG, Fredrich Ludwig-454 :  FREDERICK LUDWIG KRUECKEBERG citing Findagrave - Frederick Ludwig Krueckeberg 15 Aug 1960
 ------------------------
-MediaFile =  Frederick Ludwig Krueckeberg.jpg
+MediaFile = Frederick Ludwig Krueckeberg.jpg
 OwnerTypeDesc = Event
 OwnerName = KRUECKEBERG, Fredrich Ludwig-454:  FREDERICK LUDWIG KRUECKEBERG
 ------------------------
-MediaFile =  Friderich Conrad Thiele.jpg
+MediaFile = Friderich Conrad Thiele.jpg
 OwnerTypeDesc = Person
 OwnerName = SPRINGER, Maria Katherine-3041
 ------------------------
-MediaFile =  Friderich Conrad Thiele.jpg
+MediaFile = Friderich Conrad Thiele.jpg
 OwnerTypeDesc = Person
 OwnerName = THIELE, Friedrich Conrad-3040
 ------------------------
-MediaFile =  Friderich Conrad Thiele.jpg
+MediaFile = Friderich Conrad Thiele.jpg
 OwnerTypeDesc = Citation
 OwnerName = THIELE, Friedrich Conrad-3040 : BIRTH citing Findagrave - Friderich "Conrad" Thiele 20 Apr 1917
 ------------------------
-MediaFile =  Friderich Conrad Thiele.jpg
+MediaFile = Friderich Conrad Thiele.jpg
 OwnerTypeDesc = Citation
 OwnerName = THIELE, Friedrich Conrad-3040 : BURIAL citing Findagrave - Friderich "Conrad" Thiele 20 Apr 1917
 ------------------------
-MediaFile =  Friderich Conrad Thiele.jpg
+MediaFile = Friderich Conrad Thiele.jpg
 OwnerTypeDesc = Citation
 OwnerName = THIELE, Friedrich Conrad-3040 : DEATH citing Findagrave - Friderich "Conrad" Thiele 20 Apr 1917
 ------------------------
-MediaFile =  Friederich Thiele.jpg
+MediaFile = Friederich Thiele.jpg
 OwnerTypeDesc = Person
 OwnerName = KRUSEN, Marie Luise-3048
 ------------------------
-MediaFile =  Friederich Thiele.jpg
+MediaFile = Friederich Thiele.jpg
 OwnerTypeDesc = Person
 OwnerName = THIELE, Johann Friedrich Ludwig-3039
 ------------------------
-MediaFile =  George Bievelheimer.jpg
+MediaFile = George Bievelheimer.jpg
 OwnerTypeDesc = Person
 OwnerName = BIEVELHEIMER, George-3295
 ------------------------
-MediaFile =  George Bievelheimer.jpg
+MediaFile = George Bievelheimer.jpg
 OwnerTypeDesc = Citation
 OwnerName = BIEVELHEIMER, George-3295 :  GEORGE BIEVELHEIMER citing Findagrave - George Bievehmeer 9 Mar 1841
 ------------------------
-MediaFile =  George Bievelheimer.jpg
+MediaFile = George Bievelheimer.jpg
 OwnerTypeDesc = Event
 OwnerName = BIEVELHEIMER, George-3295:  GEORGE BIEVELHEIMER
 ------------------------
-MediaFile =  George John Heckeler.jpg
+MediaFile = George John Heckeler.jpg
 OwnerTypeDesc = Person
 OwnerName = HECKELER, George John-3195
 ------------------------
-MediaFile =  George John Heckeler.jpg
+MediaFile = George John Heckeler.jpg
 OwnerTypeDesc = Citation
 OwnerName = HECKELER, George John-3195 :  GEORGE JOHN HECKELER citing Findagrave - George John Heckeler 21 Jan 1943
 ------------------------
-MediaFile =  George John Heckeler.jpg
+MediaFile = George John Heckeler.jpg
 OwnerTypeDesc = Citation
 OwnerName = HECKELER, George John-3195 : DEATH citing Findagrave - George John Heckeler 21 Jan 1943
 ------------------------
-MediaFile =  George John Heckeler.jpg
+MediaFile = George John Heckeler.jpg
 OwnerTypeDesc = Event
 OwnerName = HECKELER, George John-3195:  GEORGE JOHN HECKELER
 ------------------------
-MediaFile =  Gustave A (615A5CB9D26C45A3A52CF0ABB1CF585E).jpg
+MediaFile = Gustave A (615A5CB9D26C45A3A52CF0ABB1CF585E).jpg
 OwnerTypeDesc = Person
 OwnerName = HECKELER, Gustave-3197
 ------------------------
-MediaFile =  Gustave A (615A5CB9D26C45A3A52CF0ABB1CF585E).jpg
+MediaFile = Gustave A (615A5CB9D26C45A3A52CF0ABB1CF585E).jpg
 OwnerTypeDesc = Citation
 OwnerName = HECKELER, Gustave-3197 :  GUSTAVE A. HECKELER citing Findagrave - Gustave A. Heckeler 1928
 ------------------------
-MediaFile =  Gustave A (615A5CB9D26C45A3A52CF0ABB1CF585E).jpg
+MediaFile = Gustave A (615A5CB9D26C45A3A52CF0ABB1CF585E).jpg
 OwnerTypeDesc = Event
 OwnerName = HECKELER, Gustave-3197:  GUSTAVE A. HECKELER
 ------------------------
-MediaFile =  Gustave A.jpg
+MediaFile = Gustave A.jpg
 OwnerTypeDesc = Person
 OwnerName = HECKELER, Gustave-3197
 ------------------------
-MediaFile =  Gustave A.jpg
+MediaFile = Gustave A.jpg
 OwnerTypeDesc = Citation
 OwnerName = HECKELER, Gustave-3197 :  GUSTAVE A. HECKELER citing Findagrave - Gustave A. Heckeler 1928
 ------------------------
-MediaFile =  Gustave A.jpg
+MediaFile = Gustave A.jpg
 OwnerTypeDesc = Event
 OwnerName = HECKELER, Gustave-3197:  GUSTAVE A. HECKELER
 ------------------------
-MediaFile =  Harriet C Conde Heckeler.jpg
+MediaFile = Harriet C Conde Heckeler.jpg
 OwnerTypeDesc = Person
 OwnerName = CONDE, Harriet C-3017
 ------------------------
-MediaFile =  Harriet C Conde Heckeler.jpg
+MediaFile = Harriet C Conde Heckeler.jpg
 OwnerTypeDesc = Citation
 OwnerName = CONDE, Harriet C-3017 :  HARRIET C CONDE HECKELER citing Findagrave - Harriet C Conde Heckeler 1946
 ------------------------
-MediaFile =  Harriet C Conde Heckeler.jpg
+MediaFile = Harriet C Conde Heckeler.jpg
 OwnerTypeDesc = Event
 OwnerName = CONDE, Harriet C-3017:  HARRIET C CONDE HECKELER
 ------------------------
-MediaFile =  Ida Ufer.jpg
+MediaFile = Ida Ufer.jpg
 OwnerTypeDesc = Person
 OwnerName = UFER, Ida-2900
 ------------------------
-MediaFile =  Ida Ufer.jpg
+MediaFile = Ida Ufer.jpg
 OwnerTypeDesc = Citation
 OwnerName = UFER, Ida-2900 :  IDA UFER citing Findagrave - Ida Ufer 1878
 ------------------------
-MediaFile =  Ida Ufer.jpg
+MediaFile = Ida Ufer.jpg
 OwnerTypeDesc = Citation
 OwnerName = UFER, Ida-2900 : DEATH citing Findagrave - Ida Ufer 1878
 ------------------------
-MediaFile =  Ida Ufer.jpg
+MediaFile = Ida Ufer.jpg
 OwnerTypeDesc = Event
 OwnerName = UFER, Ida-2900:  IDA UFER
 ------------------------
-MediaFile =  J.jpg
+MediaFile = J.jpg
 OwnerTypeDesc = Person
 OwnerName = THIEME, Johann Gottfried-2488
 ------------------------
-MediaFile =  J.jpg
+MediaFile = J.jpg
 OwnerTypeDesc = Citation
 OwnerName = THIEME, Johann Gottfried-2488 : BIRTH citing Findagrave - J. Gottfried Thieme 13 Sep 1895
 ------------------------
-MediaFile =  J.jpg
+MediaFile = J.jpg
 OwnerTypeDesc = Citation
 OwnerName = THIEME, Johann Gottfried-2488 : DEATH citing Findagrave - J. Gottfried Thieme 13 Sep 1895
 ------------------------
-MediaFile =  Jacob F Mayer.jpg
+MediaFile = Jacob F Mayer.jpg
 OwnerTypeDesc = Person
 OwnerName = MAIER, Jakob Friederich-2759
 ------------------------
-MediaFile =  Jacob F Mayer.jpg
+MediaFile = Jacob F Mayer.jpg
 OwnerTypeDesc = Citation
 OwnerName = MAIER, Jakob Friederich-2759 :  JACOB F MAYER citing Findagrave - Jacob F Mayer 1910
 ------------------------
-MediaFile =  Jacob F Mayer.jpg
+MediaFile = Jacob F Mayer.jpg
 OwnerTypeDesc = Event
 OwnerName = MAIER, Jakob Friederich-2759:  JACOB F MAYER
 ------------------------
-MediaFile =  Johann Friedrich Kahmeyer Thieme Sr.jpg
+MediaFile = Johann Friedrich Kahmeyer Thieme Sr.jpg
 OwnerTypeDesc = Person
 OwnerName = THIEME, Johann Friedrich-196
 ------------------------
-MediaFile =  Johann Friedrich Kahmeyer Thieme Sr.jpg
+MediaFile = Johann Friedrich Kahmeyer Thieme Sr.jpg
 OwnerTypeDesc = Citation
 OwnerName = THIEME, Johann Friedrich-196 :  JOHANN FRIEDRICH KAHMEYER THIEME SR. citing Findagrave - Johann Friedrich Kahmeyer Thieme Sr. 15 May 1920
 ------------------------
-MediaFile =  Johann Friedrich Kahmeyer Thieme Sr.jpg
+MediaFile = Johann Friedrich Kahmeyer Thieme Sr.jpg
 OwnerTypeDesc = Event
 OwnerName = THIEME, Johann Friedrich-196:  JOHANN FRIEDRICH KAHMEYER THIEME SR.
 ------------------------
-MediaFile =  John Gottlieb Thieme.jpg
+MediaFile = John Gottlieb Thieme.jpg
 OwnerTypeDesc = Person
 OwnerName = THIEME, Johann "John" Gottlieb-3258
 ------------------------
-MediaFile =  John Gottlieb Thieme.jpg
+MediaFile = John Gottlieb Thieme.jpg
 OwnerTypeDesc = Citation
 OwnerName = THIEME, Johann "John" Gottlieb-3258 citing Findagrave - John Gottlieb Thieme 8 Sep 1898
 ------------------------
-MediaFile =  Klara Thieme.jpg
+MediaFile = Klara Thieme.jpg
 OwnerTypeDesc = Person
 OwnerName = STRUNK, Klara-2402
 ------------------------
-MediaFile =  Klara Thieme.jpg
+MediaFile = Klara Thieme.jpg
 OwnerTypeDesc = Citation
 OwnerName = STRUNK, Klara-2402 :  KLARA THIEME citing Findagrave - Klara Thieme unknown
 ------------------------
-MediaFile =  Klara Thieme.jpg
+MediaFile = Klara Thieme.jpg
 OwnerTypeDesc = Citation
 OwnerName = STRUNK, Klara-2402 : DEATH citing Findagrave - Klara Thieme unknown
 ------------------------
-MediaFile =  Klara Thieme.jpg
+MediaFile = Klara Thieme.jpg
 OwnerTypeDesc = Event
 OwnerName = STRUNK, Klara-2402:  KLARA THIEME
 ------------------------
-MediaFile =  Klara Thieme.jpg
+MediaFile = Klara Thieme.jpg
 OwnerTypeDesc = Person
 OwnerName = THIEME, Engel-2403
 ------------------------
-MediaFile =  Klara Thieme.jpg
+MediaFile = Klara Thieme.jpg
 OwnerTypeDesc = Citation
 OwnerName = THIEME, Engel-2403 :  KLARA THIEME citing Findagrave - Klara Thieme
 ------------------------
-MediaFile =  Klara Thieme.jpg
+MediaFile = Klara Thieme.jpg
 OwnerTypeDesc = Event
 OwnerName = THIEME, Engel-2403:  KLARA THIEME
 ------------------------
-MediaFile =  Klara Thieme.jpg
+MediaFile = Klara Thieme.jpg
 OwnerTypeDesc = Person
 OwnerName = THIEME, Johann "John" Gottlieb-3258
 ------------------------
-MediaFile =  Louise Baade Tielker (DE276EC4DAE249559603AB2D16719D4F).jpg
+MediaFile = Louise Baade Tielker (DE276EC4DAE249559603AB2D16719D4F).jpg
 OwnerTypeDesc = Person
 OwnerName = BAADE, Sophia Louise-2618
 ------------------------
-MediaFile =  Louise Baade Tielker.jpg
+MediaFile = Louise Baade Tielker.jpg
 OwnerTypeDesc = Person
 OwnerName = BAADE, Sophie Luise "Louisa"-2606
 ------------------------
-MediaFile =  M Agnes Mayer.jpg
+MediaFile = M Agnes Mayer.jpg
 OwnerTypeDesc = Person
 OwnerName = MAIER, Gottlieb-2284
 ------------------------
-MediaFile =  M Agnes Mayer.jpg
+MediaFile = M Agnes Mayer.jpg
 OwnerTypeDesc = Citation
 OwnerName = MAIER, Gottlieb-2284 :  M AGNES MAYER citing Findagrave - M Agnes Mayer
 ------------------------
-MediaFile =  M Agnes Mayer.jpg
+MediaFile = M Agnes Mayer.jpg
 OwnerTypeDesc = Event
 OwnerName = MAIER, Gottlieb-2284:  M AGNES MAYER
 ------------------------
-MediaFile =  M Agnes Mayer.jpg
+MediaFile = M Agnes Mayer.jpg
 OwnerTypeDesc = Person
 OwnerName = WIELAND, Maria Agnes-2287
 ------------------------
-MediaFile =  M Agnes Mayer.jpg
+MediaFile = M Agnes Mayer.jpg
 OwnerTypeDesc = Citation
 OwnerName = WIELAND, Maria Agnes-2287 :  M AGNES MAYER citing Findagrave - M Agnes Mayer 1879
 ------------------------
-MediaFile =  M Agnes Mayer.jpg
+MediaFile = M Agnes Mayer.jpg
 OwnerTypeDesc = Event
 OwnerName = WIELAND, Maria Agnes-2287:  M AGNES MAYER
 ------------------------
-MediaFile =  Margaret Anna Bender Thiele.jpg
+MediaFile = Margaret Anna Bender Thiele.jpg
 OwnerTypeDesc = Person
 OwnerName = BENDER, Anna Margaretha-3250
 ------------------------
-MediaFile =  Margaret Anna Bender Thiele.jpg
+MediaFile = Margaret Anna Bender Thiele.jpg
 OwnerTypeDesc = Citation
 OwnerName = BENDER, Anna Margaretha-3250 :  MARGARET ANNA BENDER THIELE citing Findagrave - Margaret Anna Bender Thiele 2 Nov 1915
 ------------------------
-MediaFile =  Margaret Anna Bender Thiele.jpg
+MediaFile = Margaret Anna Bender Thiele.jpg
 OwnerTypeDesc = Event
 OwnerName = BENDER, Anna Margaretha-3250:  MARGARET ANNA BENDER THIELE
 ------------------------
-MediaFile =  Maria Katharina Springer Thiele.jpg
+MediaFile = Maria Katharina Springer Thiele.jpg
 OwnerTypeDesc = Person
 OwnerName = SPRINGER, Maria Katherine-3041
 ------------------------
-MediaFile =  Maria Katharina Springer Thiele.jpg
+MediaFile = Maria Katharina Springer Thiele.jpg
 OwnerTypeDesc = Citation
 OwnerName = SPRINGER, Maria Katherine-3041 :  MARIA KATHARINA SPRINGER THIELE citing Findagrave - Maria Katharina Springer Thiele 9 Aug 1914
 ------------------------
-MediaFile =  Maria Katharina Springer Thiele.jpg
+MediaFile = Maria Katharina Springer Thiele.jpg
 OwnerTypeDesc = Event
 OwnerName = SPRINGER, Maria Katherine-3041:  MARIA KATHARINA SPRINGER THIELE
 ------------------------
-MediaFile =  Maria Margaretha Yahner Bevelhaimer.jpg
+MediaFile = Maria Margaretha Yahner Bevelhaimer.jpg
 OwnerTypeDesc = Person
 OwnerName = BENNINGHOFF, Mary-3294
 ------------------------
-MediaFile =  Maria Margaretha Yahner Bevelhaimer.jpg
+MediaFile = Maria Margaretha Yahner Bevelhaimer.jpg
 OwnerTypeDesc = Citation
 OwnerName = BENNINGHOFF, Mary-3294 : MARIA MARGARETHA NEE YAHNER BEVELHAIMER citing Findagrave - Maria Margaretha Yahner Bevelhaimer 3 Apr 1857
 ------------------------
-MediaFile =  Maria Margaretha Yahner Bevelhaimer.jpg
+MediaFile = Maria Margaretha Yahner Bevelhaimer.jpg
 OwnerTypeDesc = Event
 OwnerName = BENNINGHOFF, Mary-3294: MARIA MARGARETHA NEE YAHNER BEVELHAIMER
 ------------------------
-MediaFile =  Martha Paulina Wilhelmina Kleineges Beuke.jpg
+MediaFile = Martha Paulina Wilhelmina Kleineges Beuke.jpg
 OwnerTypeDesc = Person
 OwnerName = BEUKE, Christian  F-2338
 ------------------------
-MediaFile =  Martha Paulina Wilhelmina Kleineges Beuke.jpg
+MediaFile = Martha Paulina Wilhelmina Kleineges Beuke.jpg
 OwnerTypeDesc = Citation
 OwnerName = BEUKE, Christian  F-2338 :  MARTHA PAULINA WILHELMINA KLEINEGES BEUKE citing Findagrave - Martha Paulina Wilhelmina Kleineges Beuke
 ------------------------
-MediaFile =  Martha Paulina Wilhelmina Kleineges Beuke.jpg
+MediaFile = Martha Paulina Wilhelmina Kleineges Beuke.jpg
 OwnerTypeDesc = Event
 OwnerName = BEUKE, Christian  F-2338:  MARTHA PAULINA WILHELMINA KLEINEGES BEUKE
 ------------------------
-MediaFile =  Martha Paulina Wilhelmina Kleineges Beuke.jpg
+MediaFile = Martha Paulina Wilhelmina Kleineges Beuke.jpg
 OwnerTypeDesc = Person
 OwnerName = KLEINEGEES, Martha Pauline Wilhelmine-2342
 ------------------------
-MediaFile =  Martha Paulina Wilhelmina Kleineges Beuke.jpg
+MediaFile = Martha Paulina Wilhelmina Kleineges Beuke.jpg
 OwnerTypeDesc = Citation
 OwnerName = KLEINEGEES, Martha Pauline Wilhelmine-2342 :  MARTHA PAULINA WILHELMINA KLEINEGES BEUKE citing Findagrave - Martha Paulina Wilhelmina Kleineges Beuke 22 Jun 1939
 ------------------------
-MediaFile =  Martha Paulina Wilhelmina Kleineges Beuke.jpg
+MediaFile = Martha Paulina Wilhelmina Kleineges Beuke.jpg
 OwnerTypeDesc = Event
 OwnerName = KLEINEGEES, Martha Pauline Wilhelmine-2342:  MARTHA PAULINA WILHELMINA KLEINEGES BEUKE
 ------------------------
-MediaFile =  Mary A Myer Schempp.jpg
+MediaFile = Mary A Myer Schempp.jpg
 OwnerTypeDesc = Person
 OwnerName = MAIER, Maria Agnes-2758
 ------------------------
-MediaFile =  Philip Schwalm.jpg
+MediaFile = Philip Schwalm.jpg
 OwnerTypeDesc = Person
 OwnerName = SCHWALM, Philip E-3126
 ------------------------
-MediaFile =  Philip Schwalm.jpg
+MediaFile = Philip Schwalm.jpg
 OwnerTypeDesc = Citation
 OwnerName = SCHWALM, Philip E-3126 :  PHILIP SCHWALM citing Findagrave - Philip Schwalm 26 Jul 1942
 ------------------------
-MediaFile =  Philip Schwalm.jpg
+MediaFile = Philip Schwalm.jpg
 OwnerTypeDesc = Event
 OwnerName = SCHWALM, Philip E-3126:  PHILIP SCHWALM
 ------------------------
-MediaFile =  Phillip Bender (D4FF772DD76744298311F63707267086).jpg
+MediaFile = Phillip Bender (D4FF772DD76744298311F63707267086).jpg
 OwnerTypeDesc = Person
 OwnerName = BENDER, Phillip-3247
 ------------------------
-MediaFile =  Phillip Bender (D4FF772DD76744298311F63707267086).jpg
+MediaFile = Phillip Bender (D4FF772DD76744298311F63707267086).jpg
 OwnerTypeDesc = Citation
 OwnerName = BENDER, Phillip-3247 :  PHILLIP BENDER citing Findagrave - Phillip Bender 1890
 ------------------------
-MediaFile =  Phillip Bender (D4FF772DD76744298311F63707267086).jpg
+MediaFile = Phillip Bender (D4FF772DD76744298311F63707267086).jpg
 OwnerTypeDesc = Event
 OwnerName = BENDER, Phillip-3247:  PHILLIP BENDER
 ------------------------
-MediaFile =  Phillip Bender (D4FF772DD76744298311F63707267086).jpg
+MediaFile = Phillip Bender (D4FF772DD76744298311F63707267086).jpg
 OwnerTypeDesc = Person
 OwnerName = BRASE, Emelie-3219
 ------------------------
-MediaFile =  Phillip Bender (D4FF772DD76744298311F63707267086).jpg
+MediaFile = Phillip Bender (D4FF772DD76744298311F63707267086).jpg
 OwnerTypeDesc = Citation
 OwnerName = BRASE, Emelie-3219 :  PHILLIP BENDER citing Findagrave - Phillip Bender
 ------------------------
-MediaFile =  Phillip Bender (D4FF772DD76744298311F63707267086).jpg
+MediaFile = Phillip Bender (D4FF772DD76744298311F63707267086).jpg
 OwnerTypeDesc = Event
 OwnerName = BRASE, Emelie-3219:  PHILLIP BENDER
 ------------------------
-MediaFile =  Phillip Bender.jpg
+MediaFile = Phillip Bender.jpg
 OwnerTypeDesc = Person
 OwnerName = BENDER, Philip N-3217
 ------------------------
-MediaFile =  Phillip Bender.jpg
+MediaFile = Phillip Bender.jpg
 OwnerTypeDesc = Citation
 OwnerName = BENDER, Philip N-3217 :  PHILLIP BENDER citing Findagrave - Phillip Bender 1890
 ------------------------
-MediaFile =  Phillip Bender.jpg
+MediaFile = Phillip Bender.jpg
 OwnerTypeDesc = Event
 OwnerName = BENDER, Philip N-3217:  PHILLIP BENDER
 ------------------------
-MediaFile =  Phillip Dudenhoefer (48688696BC1B4D428688C8ACE399FC1C).jpg
+MediaFile = Phillip Dudenhoefer (48688696BC1B4D428688C8ACE399FC1C).jpg
 OwnerTypeDesc = Person
 OwnerName = DUDENHOEFER, George Philip-3134
 ------------------------
-MediaFile =  Phillip Dudenhoefer (48688696BC1B4D428688C8ACE399FC1C).jpg
+MediaFile = Phillip Dudenhoefer (48688696BC1B4D428688C8ACE399FC1C).jpg
 OwnerTypeDesc = Citation
 OwnerName = DUDENHOEFER, George Philip-3134 :  PHILLIP DUDENHOEFER citing Findagrave - Phillip Dudenhoefer 15 Nov 1919
 ------------------------
-MediaFile =  Phillip Dudenhoefer (48688696BC1B4D428688C8ACE399FC1C).jpg
+MediaFile = Phillip Dudenhoefer (48688696BC1B4D428688C8ACE399FC1C).jpg
 OwnerTypeDesc = Citation
 OwnerName = DUDENHOEFER, George Philip-3134 : BIRTH citing Findagrave - Phillip Dudenhoefer 15 Nov 1919
 ------------------------
-MediaFile =  Phillip Dudenhoefer (48688696BC1B4D428688C8ACE399FC1C).jpg
+MediaFile = Phillip Dudenhoefer (48688696BC1B4D428688C8ACE399FC1C).jpg
 OwnerTypeDesc = Event
 OwnerName = DUDENHOEFER, George Philip-3134:  PHILLIP DUDENHOEFER
 ------------------------
-MediaFile =  Phillip Dudenhoefer.jpg
+MediaFile = Phillip Dudenhoefer.jpg
 OwnerTypeDesc = Person
 OwnerName = DUDENHOEFER, Georg Philip-3131
 ------------------------
-MediaFile =  Phillip Dudenhoefer.jpg
+MediaFile = Phillip Dudenhoefer.jpg
 OwnerTypeDesc = Citation
 OwnerName = DUDENHOEFER, Georg Philip-3131 :  PHILLIP DUDENHOEFER citing Findagrave - Phillip Dudenhoefer 1886
 ------------------------
-MediaFile =  Phillip Dudenhoefer.jpg
+MediaFile = Phillip Dudenhoefer.jpg
 OwnerTypeDesc = Event
 OwnerName = DUDENHOEFER, Georg Philip-3131:  PHILLIP DUDENHOEFER
 ------------------------
-MediaFile =  Wilhelmina Christine Weiland Kleinschmidt.jpg
+MediaFile = Wilhelmina Christine Weiland Kleinschmidt.jpg
 OwnerTypeDesc = Person
 OwnerName = WEILAND, Wilhelmine Christine-3069
 ------------------------
-MediaFile =  Wilhelmina Christine Weiland Kleinschmidt.jpg
+MediaFile = Wilhelmina Christine Weiland Kleinschmidt.jpg
 OwnerTypeDesc = Citation
 OwnerName = WEILAND, Wilhelmine Christine-3069 :  WILHELMINA CHRISTINE WEILAND KLEINSCHMIDT citing Findagrave - Wilhelmina Christine Weiland Kleinschmidt 12 May 1899
 ------------------------
-MediaFile =  Wilhelmina Christine Weiland Kleinschmidt.jpg
+MediaFile = Wilhelmina Christine Weiland Kleinschmidt.jpg
 OwnerTypeDesc = Citation
 OwnerName = WEILAND, Wilhelmine Christine-3069 : BURIAL citing Findagrave - Wilhelmina Christine Weiland Kleinschmidt 12 May 1899
 ------------------------
-MediaFile =  Wilhelmina Christine Weiland Kleinschmidt.jpg
+MediaFile = Wilhelmina Christine Weiland Kleinschmidt.jpg
 OwnerTypeDesc = Citation
 OwnerName = WEILAND, Wilhelmine Christine-3069 : DEATH citing Findagrave - Wilhelmina Christine Weiland Kleinschmidt 12 May 1899
 ------------------------
-MediaFile =  Wilhelmina Christine Weiland Kleinschmidt.jpg
+MediaFile = Wilhelmina Christine Weiland Kleinschmidt.jpg
 OwnerTypeDesc = Event
 OwnerName = WEILAND, Wilhelmine Christine-3069:  WILHELMINA CHRISTINE WEILAND KLEINSCHMIDT
 ------------------------
-MediaFile =  Wilhelmine Kohlmeyer.jpg
+MediaFile = Wilhelmine Kohlmeyer.jpg
 OwnerTypeDesc = Person
 OwnerName = KOHLMEYER, Christian-2412
 ------------------------
-MediaFile =  Wilhelmine Kohlmeyer.jpg
+MediaFile = Wilhelmine Kohlmeyer.jpg
 OwnerTypeDesc = Citation
 OwnerName = KOHLMEYER, Christian-2412 :  WILHELMINE KOHLMEYER citing Findagrave - Wilhelmine Kohlmeyer
 ------------------------
-MediaFile =  Wilhelmine Kohlmeyer.jpg
+MediaFile = Wilhelmine Kohlmeyer.jpg
 OwnerTypeDesc = Event
 OwnerName = KOHLMEYER, Christian-2412:  WILHELMINE KOHLMEYER
 ------------------------
-MediaFile =  Wilhelmine Kohlmeyer.jpg
+MediaFile = Wilhelmine Kohlmeyer.jpg
 OwnerTypeDesc = Person
 OwnerName = KRUECKEBERG, Wilhelmine Philippine Christine-1964
 ------------------------
-MediaFile =  Wilhelmine Kohlmeyer.jpg
+MediaFile = Wilhelmine Kohlmeyer.jpg
 OwnerTypeDesc = Citation
 OwnerName = KRUECKEBERG, Wilhelmine Philippine Christine-1964 : BURIAL citing Findagrave - Wilhelmine Kohlmeyer 1923
 ------------------------
-MediaFile =  Wilhelmine Kohlmeyer.jpg
+MediaFile = Wilhelmine Kohlmeyer.jpg
 OwnerTypeDesc = Citation
 OwnerName = KRUECKEBERG, Wilhelmine Philippine Christine-1964 : DIED AT THE  HOME OF HER DAUGHTER citing Findagrave - Wilhelmine Kohlmeyer 1923
 ------------------------
-MediaFile =  William F Hoffman (9C5B12C39CD742ACBF474091053CC08A).jpg
+MediaFile = William F Hoffman (9C5B12C39CD742ACBF474091053CC08A).jpg
 OwnerTypeDesc = Person
 OwnerName = HOFFMAN, William F-3093
 ------------------------
-MediaFile =  William F Hoffman.jpg
+MediaFile = William F Hoffman.jpg
 OwnerTypeDesc = Person
 OwnerName = BENDER, Elizabeth-3249
 ------------------------
-MediaFile =  William F Hoffman.jpg
+MediaFile = William F Hoffman.jpg
 OwnerTypeDesc = Person
 OwnerName = HAMM, Mary Eliza-3095
 ------------------------
-MediaFile =  William F Hoffman.jpg
+MediaFile = William F Hoffman.jpg
 OwnerTypeDesc = Citation
 OwnerName = HAMM, Mary Eliza-3095 :  WILLIAM F HOFFMAN citing Findagrave - William F Hoffman
 ------------------------
-MediaFile =  William F Hoffman.jpg
+MediaFile = William F Hoffman.jpg
 OwnerTypeDesc = Event
 OwnerName = HAMM, Mary Eliza-3095:  WILLIAM F HOFFMAN
 ------------------------
-MediaFile =  William F Hoffman.jpg
+MediaFile = William F Hoffman.jpg
 OwnerTypeDesc = Person
 OwnerName = HOFFMAN, William F-3093
 ------------------------
-MediaFile =  William F Hoffman.jpg
+MediaFile = William F Hoffman.jpg
 OwnerTypeDesc = Citation
 OwnerName = HOFFMAN, William F-3093 :  WILLIAM F HOFFMAN citing Findagrave - William F Hoffman 1937
 ------------------------
-MediaFile =  William F Hoffman.jpg
+MediaFile = William F Hoffman.jpg
 OwnerTypeDesc = Event
 OwnerName = HOFFMAN, William F-3093:  WILLIAM F HOFFMAN
 ------------------------
