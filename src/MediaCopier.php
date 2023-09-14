@@ -62,7 +62,7 @@ class MediaCopier {
      $fullpath = $this->dest_dir . "/" . $subdir;
 
      // todo: The destination subdir parent needs to be $this->destDir.
-     if (!is_dir($newDir)) {
+     if (!is_dir($fullpath)) {
 
         $rc = mkdir($newDir, 0777);
 
