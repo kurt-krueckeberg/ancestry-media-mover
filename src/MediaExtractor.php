@@ -5,8 +5,6 @@ namespace RootsMagic;
 class MediaExtractor {
 
   private string $media_file;
-  private string $surname;
-  private string $givenNames;
   private string $src_dir;
   private string $dest_dir;
 
@@ -17,34 +15,28 @@ class MediaExtractor {
       $this->dest_dir = $destDir;
   }
 
-  // Todo: Change to a more specific task: 
-  private function copy(string $fileName, string $surname, string $given)
+  public function __invoke(string $line)
   {
-     $given = str_replace($given, ' ', '-');
+    if ($line[5] == 'F') {// 'MediaFile' test
 
-     $subdir = $surname . "-" . $given; 
+      $this->media_file = substr($line, 13);
+  
+    // Test for "OwnerName".
+    } else if ($line[5] == 'N') {
 
-     $newDir = $this->dest_dir . "/" . $subdir;
+      // Choose substring where the surname begins   
+      $person_name = substr($line, 12, strpos(substr($line, 12), '-'));
 
-     // todo: The destination subdir parent needs to be $this->destDir.
-     if (!is_dir($newDir))
-         mkdir($newDir, 0777);
+      // todo: What is surname is missing?
+      $fullpath = $this->createSubfolder($person_name); 
 
-     $destName = "'./$newDir/$fileName'"; // <-- Didn't help.
-
-     echo $destName;
-    
-     if (!file_exists($destName))  {
-
-         $fromName = "'" . $this->src_dir . $fileName . "'";
-
-         echo "From = $fromName | Dest = $destName\n";
-
-         $rc = copy($fromName, $destName);
-     } 
+      // todo: This needs more work: The source media file might have embedded spaces.
+      // These need to be removed or changed.
+      $this->copy($fullpath, $this->media_file);
+    }
   }
-
-  private function process(string $name)
+  // Returns full path to subdir: parent/subdir
+  private function createSubfolder(string $name) : string
   {
      $comma_pos = strpos($name, ',');
  
@@ -59,26 +51,29 @@ class MediaExtractor {
 
      $subdir = $surname . "-" . $given; 
 
-     $fullDestDir = $this->dest_dir . "/" . $subdir;
-     
-     // todo: This needs more work: The source media file might have embedded spaces.
-     // These need to be removed or changed.
-     $this->copy($fullDestDir, $this->media_file, $surname, $given);
+     $fullpath = $this->dest_dir . "/" . $subdir;
+
+     // todo: The destination subdir parent needs to be $this->destDir.
+     if (!is_dir($newDir)) {
+        $rc = mkdir($newDir, 0777);
+        if ($rc == ??) // throw ??
+     } 
+
+     return $fullpath;
   }
 
-  public function __invoke(string $line)
+  // Todo: Change to a more specific task: 
+  private function copy(string $destFullpath, string $srcFile)
   {
-    if ($line[5] == 'F') {// 'MediaFile' test
+     $destFilename = $this->dest_dir . "/" . str_replace($srcFile, ' ', '-');
 
-      $this->media_file = substr($line, 13);
-  
-    // "OwnerName" test
-    } else if ($line[5] == 'N') {
+     if (!file_exists($destFilename))  {
 
-      // choose substring where the surname begins   
-      $person_name = substr($line, 12, strpos(substr($line, 12), '-'));
+         $fromFilename = "'" . $this->src_dir . $srcFile . "'";
 
-      $this->process($person_name);     
-    }
+         echo "From = $fromName | Dest = $destName\n";
+
+         $rc = copy($fromFilename, $destFilename);
+     } 
   }
 }
