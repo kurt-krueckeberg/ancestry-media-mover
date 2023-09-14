@@ -2,7 +2,7 @@
 declare(strict_types=1);
 namespace RootsMagic;
 
-class MediaExtractor {
+class MediaCopier {
 
   private string $media_file;
   private string $src_dir;
@@ -11,7 +11,15 @@ class MediaExtractor {
   public function __construct(string $srcDir, string $destDir)
   {
       $this->media_file = '';
+
+      if (is_dir($srcDir) === false)
+          throw \ErrorException("The directory $srcDest does not exist.");
+
       $this->src_dir = $srcDir;
+
+      if (is_dir($destDir) === false)
+          throw \ErrorException("The directory $destDir does not exist.");
+
       $this->dest_dir = $destDir;
   }
 

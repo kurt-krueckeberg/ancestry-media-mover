@@ -8,13 +8,12 @@ locale_set_default('de_DE');
 
 //$ancestry_folder = "~/d/genealogy/roots-magic-09-06-2023_media/";
 
-$filesHandler = new MediaExtractor("/home/kurt/Documents/genealogy//home/kurt/Documents/genealogy",
-                         "~/temp/roots-magic-09-06-2023_media/");
+$mediaExtractor = new MediaExtractor("~/d/genealogy/roots-magic-09-06-2023_media/",
+                         "~/temp/ancestry-media");
 
 $file = new FileReader('output.txt');
 
-foreach ($file as $no => $line) {
- 
+foreach ($file as $no => $line)  
      $filesHandler($line);
-}
+
 
