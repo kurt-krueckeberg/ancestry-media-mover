@@ -55,7 +55,7 @@ class MediaCopier {
      // + 2 enables us to skip over ", "
      $given = substr($name, $comma_pos + 2); 
 
-     $given = str_replace($given, ' ', '-');
+     $given = str_replace(' ', '-', $given);
 
      $subdir = $surname . "-" . $given; 
 
@@ -82,7 +82,7 @@ class MediaCopier {
 
          $fromFilename = "'" . $this->src_dir . $srcFile . "'";
 
-         echo "From = $srcFile | Dest = $destFilename\n";
+         echo "Copying $fromFilename to $destFilename\n";
 
          $rc = copy($fromFilename, $destFilename);
      } 
