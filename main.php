@@ -14,6 +14,6 @@ $mediaCopier = new MediaCopier("~/d/genealogy/roots-magic-09-06-2023_media/",
 $file = new FileReader('output.txt');
 
 foreach ($file as $no => $line)  
-     $filesHandler($line);
+     $mediaCopier($line);
 
 
