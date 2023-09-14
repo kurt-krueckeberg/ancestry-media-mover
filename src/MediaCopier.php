@@ -71,7 +71,9 @@ class MediaCopier {
 
   private function copy(string $destFullpath, string $srcFile)
   {
-     if (!file_exists($srcFile)) {
+     $srcFilename = $this->src_dir . "/" . $srcFile;
+
+     if (!file_exists($srcFilename)) {
          echo "Cannot copy $srcFile. It does not exist.\n";
          return;
      }
@@ -82,11 +84,9 @@ class MediaCopier {
 
      if (!file_exists($destFilename)) {
 
-         $fromFilename = "'" . $this->src_dir . $srcFile . "'";
+         echo "Copying $srcFilename to $destFilename\n";
 
-         echo "Copying $fromFilename to $destFilename\n";
-
-         $rc = \copy($fromFilename, $destFilename);
+         $rc = \copy($srcFilename, $destFilename);
      } 
   }
 }
