@@ -76,7 +76,9 @@ class MediaCopier {
          return;
      }
 
-     $destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $srcFile);
+     $tmp =  ltrim($srcFile); // Remove any leading spaces in source file.
+
+     $destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $tmp);
 
      if (!file_exists($destFilename)) {
 
