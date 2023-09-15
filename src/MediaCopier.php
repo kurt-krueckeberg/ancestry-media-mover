@@ -32,7 +32,7 @@ class MediaCopier {
 
       $this->media_file = substr($line, 12);
 
-      if ($this-media_file == '4118575_00278.jpg')
+      if ($this->media_file == '4118575_00278.jpg')
 
           $debug = 10;
   
@@ -41,8 +41,6 @@ class MediaCopier {
 
       // Choose substring where the surname begins
       $rc = preg_match(self::$regexName, $line, $matches);
-
-      $person_name = substr($line, 12, strpos(substr($line, 12), '-'));
 
       $fullpathFolder = $this->createTargetFolderName($matches[1], $matches[2]); 
 
