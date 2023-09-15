@@ -32658,18 +32658,6 @@ MediaFile = Bio Find a Grave (E4A3225305FB492EA6D0AF4B65F722A3).jpg
 OwnerTypeDesc = Person
 OwnerName = BLEEKE, Johann Hartweg-2320
 ------------------------
-MediaFile = Bio Find a Grave.jpg
-OwnerTypeDesc = Person
-OwnerName = BLEEKE, Carl Friedrich-2171
-------------------------
-MediaFile = Bio Find a Grave.jpg
-OwnerTypeDesc = Person
-OwnerName = BLEEKE, Sophie Luise-2186
-------------------------
-MediaFile = Bio Find a Grave.jpg
-OwnerTypeDesc = Person
-OwnerName = NIEMANN, Marie Luise-2172
-------------------------
 MediaFile = Biographies of Organizers of Immanuel Lutheran, Decatur IN.pdf
 OwnerTypeDesc = Person
 OwnerName = BLEEKE, Carl Friedrich Johann Wilhelm-3272
