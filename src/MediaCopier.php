@@ -48,7 +48,7 @@ class MediaCopier {
 
          $rc = mkdir($fullpathFolder, 0777);
 
-      $this->copy($fullpathFolder, $this->media_file);
+      $this->copy($this->media_file, $fullpathFolder);
     }
   }
   // Returns full path to subdir: parent/subdir
@@ -73,7 +73,7 @@ class MediaCopier {
 
      return $fullpath;
   }
-  private function copy(string $destFullpath, string $srcFile)
+  private function copy(string $srcFile, string $destFullpath)
   {
     $srcFilename = $this->src_dir . "/" . $srcFile;
 
