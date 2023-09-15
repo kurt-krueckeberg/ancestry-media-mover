@@ -14456,15 +14456,15 @@ OwnerName = BENDER, Johann Friedrich-3185 citing 1860 United States Federal Cens
 ------------------------
 MediaFile = 4215010_00311.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : BIRTH citing 1860 United States Federal Census - Year: 1860; Census Place: Adams, Allen, Indiana; Roll: M653_243; Page: 547; Family History Library Film: 803243
+OwnerName = Peppler, Johann Jakob-3237 : BIRTH citing 1860 United States Federal Census - Year: 1860; Census Place: Adams, Allen, Indiana; Roll: M653_243; Page: 547; Family History Library Film: 803243
 ------------------------
 MediaFile = 4215010_00311.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : RESIDENCE citing 1860 United States Federal Census - Year: 1860; Census Place: Adams, Allen, Indiana; Roll: M653_243; Page: 547; Family History Library Film: 803243
+OwnerName = Peppler, Johann Jakob-3237 : RESIDENCE citing 1860 United States Federal Census - Year: 1860; Census Place: Adams, Allen, Indiana; Roll: M653_243; Page: 547; Family History Library Film: 803243
 ------------------------
 MediaFile = 4215010_00311.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 citing 1860 United States Federal Census - Year: 1860; Census Place: Adams, Allen, Indiana; Roll: M653_243; Page: 547; Family History Library Film: 803243
+OwnerName = Peppler, Johann Jakob-3237 citing 1860 United States Federal Census - Year: 1860; Census Place: Adams, Allen, Indiana; Roll: M653_243; Page: 547; Family History Library Film: 803243
 ------------------------
 MediaFile = 4215010_00311.jpg
 OwnerTypeDesc = Citation
@@ -21012,15 +21012,15 @@ OwnerName = BENDER, Philip N-3217 citing 1870 United States Federal Census - Yea
 ------------------------
 MediaFile = 4263299_00030.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : BIRTH citing 1870 United States Federal Census - Year: 1870; Census Place: Adams, Allen, Indiana; Roll: M593_297; Page: 164A
+OwnerName = Peppler, Johann Jakob-3237 : BIRTH citing 1870 United States Federal Census - Year: 1870; Census Place: Adams, Allen, Indiana; Roll: M593_297; Page: 164A
 ------------------------
 MediaFile = 4263299_00030.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : RESIDENCE citing 1870 United States Federal Census - Year: 1870; Census Place: Adams, Allen, Indiana; Roll: M593_297; Page: 164A
+OwnerName = Peppler, Johann Jakob-3237 : RESIDENCE citing 1870 United States Federal Census - Year: 1870; Census Place: Adams, Allen, Indiana; Roll: M593_297; Page: 164A
 ------------------------
 MediaFile = 4263299_00030.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 citing 1870 United States Federal Census - Year: 1870; Census Place: Adams, Allen, Indiana; Roll: M593_297; Page: 164A
+OwnerName = Peppler, Johann Jakob-3237 citing 1870 United States Federal Census - Year: 1870; Census Place: Adams, Allen, Indiana; Roll: M593_297; Page: 164A
 ------------------------
 MediaFile = 4263299_00030.jpg
 OwnerTypeDesc = Citation
@@ -26728,7 +26728,7 @@ OwnerName = BENDER, Marie "Mary" Annie-3236 citing Indiana, U.S., Death Certific
 ------------------------
 MediaFile = 44494_349968-00105.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 citing Indiana, U.S., Death Certificates, 1899-2017 - Indiana Archives and Records Administration; Indianapolis, IN, USA; Death Certificates; Year: 1910 - 1919; Roll: 02
+OwnerName = Peppler, Johann Jakob-3237 citing Indiana, U.S., Death Certificates, 1899-2017 - Indiana Archives and Records Administration; Indianapolis, IN, USA; Death Certificates; Year: 1910 - 1919; Roll: 02
 ------------------------
 MediaFile = 44494_349968-00105.jpg
 OwnerTypeDesc = Citation
@@ -34044,7 +34044,7 @@ OwnerName = HECKELER, Johann Thomas-3211: DEATH
 ------------------------
 MediaFile = Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber na (0DCE1A3EAF5249AF9C912C997A5FBD4E).pdf
 OwnerTypeDesc = Person
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237
+OwnerName = Peppler, Johann Jakob-3237
 ------------------------
 MediaFile = Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber na (871BDB49EE3C4966A94709B3E51D1E9E).pdf
 OwnerTypeDesc = Person
@@ -34088,7 +34088,7 @@ OwnerName = RüHL, Katharine Elisabeth-3240 : MARRIAGE citing Die Auswanderer au
 ------------------------
 MediaFile = Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber na (A3283C7F6F5847C382939C878408CB16).pdf
 OwnerTypeDesc = Person
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237
+OwnerName = Peppler, Johann Jakob-3237
 ------------------------
 MediaFile = Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber na.pdf
 OwnerTypeDesc = Person
@@ -34096,11 +34096,11 @@ OwnerName =  PLATT, Maria Magdalene-3238
 ------------------------
 MediaFile = Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber na.pdf
 OwnerTypeDesc = Person
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237
+OwnerName = Peppler, Johann Jakob-3237
 ------------------------
 MediaFile = Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber na.pdf
 OwnerTypeDesc = Event
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237: DEPARTURE
+OwnerName = Peppler, Johann Jakob-3237: DEPARTURE
 ------------------------
 MediaFile = Die Auswanderer aus dem Kirchspiel Rodheim an der Bieber na.pdf
 OwnerTypeDesc = Person
@@ -35500,7 +35500,7 @@ OwnerName = BEPPLER, Johann Jakob-3237
 ------------------------
 MediaFile = hess-p3.pdf
 OwnerTypeDesc = Person
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237
+OwnerName = Peppler, Johann Jakob-3237
 ------------------------
 MediaFile = hessiches_familienkunde_sept_1989_band_19_heft_7.pdf
 OwnerTypeDesc = Person
@@ -35760,39 +35760,39 @@ OwnerName = BEERMANN, Henry-1977
 ------------------------
 MediaFile = Johan Jacob Peppler headstone.jpg
 OwnerTypeDesc = Person
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237
+OwnerName = Peppler, Johann Jakob-3237
 ------------------------
 MediaFile = Johan Jacob Peppler headstone.jpg
 OwnerTypeDesc = Alt. Name
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237
+OwnerName = Peppler, Johann Jakob-3237
 ------------------------
 MediaFile = Johan Jacob Peppler headstone.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : BIRTH citing findagrave.com - Johan Jacob Peppler findagrave entry
+OwnerName = Peppler, Johann Jakob-3237 : BIRTH citing findagrave.com - Johan Jacob Peppler findagrave entry
 ------------------------
 MediaFile = Johan Jacob Peppler headstone.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : DEATH citing findagrave.com - Johan Jacob Peppler findagrave entry
+OwnerName = Peppler, Johann Jakob-3237 : DEATH citing findagrave.com - Johan Jacob Peppler findagrave entry
 ------------------------
 MediaFile = Johan Jacob Peppler headstone.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : ORIGIN citing findagrave.com - Johan Jacob Peppler findagrave entry
+OwnerName = Peppler, Johann Jakob-3237 : ORIGIN citing findagrave.com - Johan Jacob Peppler findagrave entry
 ------------------------
 MediaFile = Johan Jacob Peppler headstone.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 citing findagrave.com - Johan Jacob Peppler findagrave entry
+OwnerName = Peppler, Johann Jakob-3237 citing findagrave.com - Johan Jacob Peppler findagrave entry
 ------------------------
 MediaFile = Johan Jacob Peppler headstone.jpg
 OwnerTypeDesc = Event
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237: BIRTH
+OwnerName = Peppler, Johann Jakob-3237: BIRTH
 ------------------------
 MediaFile = Johan Jacob Peppler headstone.jpg
 OwnerTypeDesc = Event
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237: DEATH
+OwnerName = Peppler, Johann Jakob-3237: DEATH
 ------------------------
 MediaFile = Johan Jacob Peppler headstone.jpg
 OwnerTypeDesc = Event
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237: ORIGIN
+OwnerName = Peppler, Johann Jakob-3237: ORIGIN
 ------------------------
 MediaFile = Johann Andreas Thieme .jpg
 OwnerTypeDesc = Person
@@ -35996,11 +35996,11 @@ OwnerName = THIEME, Johann Gottfried-2488 : MARRIAGE citing Indiana Marriages, 1
 ------------------------
 MediaFile = Johann-Jacob-Peppler-1857-Deed-Index-Entry (5F4C1B6C6EFA4334AD264B32FFFB0D28).pdf
 OwnerTypeDesc = Person
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237
+OwnerName = Peppler, Johann Jakob-3237
 ------------------------
 MediaFile = Johann-Jacob-Peppler-1857-Deed-Index-Entry.pdf
 OwnerTypeDesc = Person
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237
+OwnerName = Peppler, Johann Jakob-3237
 ------------------------
 MediaFile = Johann.jpg
 OwnerTypeDesc = Person
@@ -39668,27 +39668,27 @@ OwnerName =  PLATT, Maria Magdalene-3238 : ORIGIN citing New York, U.S., Arrivin
 ------------------------
 MediaFile = NYM237_174-0275.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : ARRIVAL citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
+OwnerName = Peppler, Johann Jakob-3237 : ARRIVAL citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
 ------------------------
 MediaFile = NYM237_174-0275.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : BIRTH citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
+OwnerName = Peppler, Johann Jakob-3237 : BIRTH citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
 ------------------------
 MediaFile = NYM237_174-0275.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : DEPARTURE citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
+OwnerName = Peppler, Johann Jakob-3237 : DEPARTURE citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
 ------------------------
 MediaFile = NYM237_174-0275.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : DESTINATION citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
+OwnerName = Peppler, Johann Jakob-3237 : DESTINATION citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
 ------------------------
 MediaFile = NYM237_174-0275.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : ORIGIN citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
+OwnerName = Peppler, Johann Jakob-3237 : ORIGIN citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
 ------------------------
 MediaFile = NYM237_174-0275.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
+OwnerName = Peppler, Johann Jakob-3237 citing New York, U.S., Arriving Passenger and Crew Lists (including Castle Garden and Ellis Island), 1820-1957 - Year: 1857; Arrival: New York, New York, USA; Microfilm Serial: M237, 1820-1897; Line: 17; List Number: 558
 ------------------------
 MediaFile = NYM237_174-0275.jpg
 OwnerTypeDesc = Citation
@@ -42216,39 +42216,39 @@ OwnerName = BLEEKE, Johann Heinrich Philipp-3271 citing U.S., General Land Offic
 ------------------------
 MediaFile = Rootsweb photo of headstone of Johann Jacob Peppler.jpg
 OwnerTypeDesc = Person
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237
+OwnerName = Peppler, Johann Jakob-3237
 ------------------------
 MediaFile = Rootsweb photo of headstone of Johann Jacob Peppler.jpg
 OwnerTypeDesc = Alt. Name
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237
+OwnerName = Peppler, Johann Jakob-3237
 ------------------------
 MediaFile = Rootsweb photo of headstone of Johann Jacob Peppler.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : BIRTH citing  Mary Penrose Wayne Chapter, National Society Daughters of the American Revolution - Transcription of headstone text. Done originally in 1932 and again in 2010.
+OwnerName = Peppler, Johann Jakob-3237 : BIRTH citing  Mary Penrose Wayne Chapter, National Society Daughters of the American Revolution - Transcription of headstone text. Done originally in 1932 and again in 2010.
 ------------------------
 MediaFile = Rootsweb photo of headstone of Johann Jacob Peppler.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : DEATH citing  Mary Penrose Wayne Chapter, National Society Daughters of the American Revolution - Transcription of headstone text. Done originally in 1932 and again in 2010.
+OwnerName = Peppler, Johann Jakob-3237 : DEATH citing  Mary Penrose Wayne Chapter, National Society Daughters of the American Revolution - Transcription of headstone text. Done originally in 1932 and again in 2010.
 ------------------------
 MediaFile = Rootsweb photo of headstone of Johann Jacob Peppler.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 : ORIGIN citing  Mary Penrose Wayne Chapter, National Society Daughters of the American Revolution - Transcription of headstone text. Done originally in 1932 and again in 2010.
+OwnerName = Peppler, Johann Jakob-3237 : ORIGIN citing  Mary Penrose Wayne Chapter, National Society Daughters of the American Revolution - Transcription of headstone text. Done originally in 1932 and again in 2010.
 ------------------------
 MediaFile = Rootsweb photo of headstone of Johann Jacob Peppler.jpg
 OwnerTypeDesc = Citation
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237 citing  Mary Penrose Wayne Chapter, National Society Daughters of the American Revolution - Transcription of headstone text. Done originally in 1932 and again in 2010.
+OwnerName = Peppler, Johann Jakob-3237 citing  Mary Penrose Wayne Chapter, National Society Daughters of the American Revolution - Transcription of headstone text. Done originally in 1932 and again in 2010.
 ------------------------
 MediaFile = Rootsweb photo of headstone of Johann Jacob Peppler.jpg
 OwnerTypeDesc = Event
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237: BIRTH
+OwnerName = Peppler, Johann Jakob-3237: BIRTH
 ------------------------
 MediaFile = Rootsweb photo of headstone of Johann Jacob Peppler.jpg
 OwnerTypeDesc = Event
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237: DEATH
+OwnerName = Peppler, Johann Jakob-3237: DEATH
 ------------------------
 MediaFile = Rootsweb photo of headstone of Johann Jacob Peppler.jpg
 OwnerTypeDesc = Event
-OwnerName = BEPPLER/PEPPLER, Johann Jakob-3237: ORIGIN
+OwnerName = Peppler, Johann Jakob-3237: ORIGIN
 ------------------------
 MediaFile = Salome nee Klein Felt (BDD1C8808AF14B86B573880CAA751DDE).jpg
 OwnerTypeDesc = Person
