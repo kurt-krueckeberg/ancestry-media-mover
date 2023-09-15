@@ -66,8 +66,7 @@ class MediaCopier {
 
       $subdir = $surname . "-" . $givenName;     
     }
-    echo $subdir . "\n";
-    
+       
     $fullpath = $this->dest_dir . "/" . $subdir;
 
      return $fullpath;
