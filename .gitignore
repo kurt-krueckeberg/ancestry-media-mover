@@ -2,3 +2,4 @@ vendor/
 .*.swp
 composer.lock
 roots-magic-09-06-2023-media/
+/nbproject/private/

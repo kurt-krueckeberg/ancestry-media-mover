@@ -41,38 +41,46 @@ class MediaCopier {
 
       // Choose substring where the surname begins
       $rc = preg_match(self::$regexName, $line, $matches);
+      
+      $fullTargetFolder = $this->createTargetFolderName($matches[1], $matches[2]); 
 
-      $fullpathFolder = $this->createTargetFolderName($matches[1], $matches[2]); 
+      if (!is_dir($fullTargetFolder)) 
 
-      if (!is_dir($fullpathFolder)) 
+         $rc = mkdir($fullTargetFolder, 0777);
 
-         $rc = mkdir($fullpathFolder, 0777);
+      $destFullFilename = $fullTargetFolder . '/' . str_replace(' ', '-', $this->media_file);
 
-      $this->copy($this->media_file, $fullpathFolder);
+      if (!file_exists($destFullFilename)) {
+
+        $srcFullFilename = $this->src_dir . "/" . $this->media_file;
+  
+        $rc = \copy($srcFullFilename, $destFullFilename);
+        
+        if (!$rc)
+           echo "There was an error in copying $srcFilename to $destFilename\n";
+      }
     }
   }
+  
   // Returns full path to subdir: parent/subdir
   private function createTargetFolderName(string $surName, string $givenName) : string
   {
-    if ($surName[0] == ',')
+    if ($surName[0] == ',') {
 
       $subdir = "UnknownSurname";
 
-    else {
+    } else {
 
-      $surName = rtrim($surName, ",");  
+      //$surName = rtrim($surName, ",");  
 
-      $surname = strtolower($surName);
-     
-      $surname = ucfirst($surname);
-
-      $subdir = $surname . "-" . $givenName;     
+      $subdir = ucfirst(strtolower($surName)) . "-" . $givenName;     
     }
        
-    $fullpath = $this->dest_dir . "/" . $subdir;
+    $fullTargetPath = $this->dest_dir . "/" . $subdir;
 
-     return $fullpath;
+     return $fullTargetPath;
   }
+  /*
   private function copy(string $srcFile, string $destFullpath)
   {
     $srcFilename = $this->src_dir . "/" . $srcFile;
@@ -83,9 +91,11 @@ class MediaCopier {
         return;
     }
 
-    $tmp = ltrim($srcFile); // Remove any leading spaces in source file.
-
-    $destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $tmp);
+    if ($this->dest_dir == '')
+       $debug = 10;
+       
+    //$destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $srcFile);
+    $destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $srcFile);
 
     if (!file_exists($destFilename)) {
 
@@ -95,4 +105,5 @@ class MediaCopier {
            echo "There was an error in copying $srcFilename to $destFilename\n";
     } 
   }
+  */
 }
