@@ -41,13 +41,11 @@ class MediaCopier {
       $person_name = substr($line, 12, strpos(substr($line, 12), '-'));
 
       if ($matches[1][0] == ',')
-         $debug = 10;
+         $matches[1] = "UnknownSurname";   
 
       return;
 
-      $person_name = ltrim($person_name);
-
-      $fullpathFolder = $this->createTargetFolderName($person_name); 
+      $fullpathFolder = $this->createTargetFolderName($matches[1], $matches[2]); 
 
       if (!is_dir($fullpathFolder)) 
 
@@ -57,18 +55,11 @@ class MediaCopier {
     }
   }
   // Returns full path to subdir: parent/subdir
-  private function createTargetFolderName(string $name) : string
+  private function createTargetFolderName(string $surName, string $givenName) : string
   {
-     $comma_pos = strpos($name, ',');
- 
-     $surname = strtolower(substr($name, 0, $comma_pos));
+     $surname = strtolower($surName);
      
      $surname = ucfirst($surname);
-
-     // + 2 enables us to skip over ", "
-     $given = substr($name, $comma_pos + 2); 
-
-     $given = str_replace(' ', '-', $given);
 
      $subdir = $surname . "-" . $given; 
 
