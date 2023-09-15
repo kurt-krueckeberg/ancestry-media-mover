@@ -39,17 +39,12 @@ class MediaCopier {
       $rc = preg_match(self::$regexName, $line, $matches);
 
       $person_name = substr($line, 12, strpos(substr($line, 12), '-'));
-/*
-      if ($matches[1][0] == ',')
-         $matches[1] = "UnknownSurname";
-      else
-        $matches[1] = rtrim($matches[1], ",");  
-*/
+
       $fullpathFolder = $this->createTargetFolderName($matches[1], $matches[2]); 
 
       if (!is_dir($fullpathFolder)) 
 
-        $rc = mkdir($fullpathFolder, 0777);
+         $rc = mkdir($fullpathFolder, 0777);
 
       $this->copy($fullpathFolder, $this->media_file);
     }
