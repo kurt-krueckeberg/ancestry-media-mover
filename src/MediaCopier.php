@@ -71,39 +71,13 @@ class MediaCopier {
 
     } else {
 
-      //$surName = rtrim($surName, ",");  
+      $surName = rtrim($surName, ",");
 
-      $subdir = ucfirst(strtolower($surName)) . "-" . $givenName;     
+      $subdir = ucfirst(strtolower($surName)) . "-" . str_replace(' ', '-', $givenName);     
     }
        
     $fullTargetPath = $this->dest_dir . "/" . $subdir;
 
      return $fullTargetPath;
   }
-  /*
-  private function copy(string $srcFile, string $destFullpath)
-  {
-    $srcFilename = $this->src_dir . "/" . $srcFile;
-
-    if (!file_exists($srcFilename))  {
-
-        echo "Cannot copy $srcFile. It does not exist.\n";
-        return;
-    }
-
-    if ($this->dest_dir == '')
-       $debug = 10;
-       
-    //$destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $srcFile);
-    $destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $srcFile);
-
-    if (!file_exists($destFilename)) {
-
-        $rc = \copy($srcFilename, $destFilename);
-
-        if (!$rc)
-           echo "There was an error in copying $srcFilename to $destFilename\n";
-    } 
-  }
-  */
 }
