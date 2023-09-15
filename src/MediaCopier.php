@@ -73,23 +73,24 @@ class MediaCopier {
 
   private function copy(string $destFullpath, string $srcFile)
   {
-     $srcFilename = $this->src_dir . "/" . $srcFile;
+    $srcFilename = $this->src_dir . "/" . $srcFile;
 
-     if (!file_exists($srcFilename)) {
-         echo "Cannot copy $srcFile. It does not exist.\n";
-         return;
-     }
+    if (!file_exists($srcFilename))  {
 
-     $tmp =  ltrim($srcFile); // Remove any leading spaces in source file.
+        echo "Cannot copy $srcFile. It does not exist.\n";
+        return;
+    }
 
-     $destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $tmp);
+    $tmp = ltrim($srcFile); // Remove any leading spaces in source file.
 
-     if (!file_exists($destFilename)) {
+    $destFilename = $this->dest_dir . "/" . str_replace(' ', '-', $tmp);
 
-         $rc = \copy($srcFilename, $destFilename);
+    if (!file_exists($destFilename)) {
 
-         if (!$rc)
+        $rc = \copy($srcFilename, $destFilename);
+
+        if (!$rc)
            echo "There was an error in copying $srcFilename to $destFilename\n";
-     } 
+    } 
   }
 }
