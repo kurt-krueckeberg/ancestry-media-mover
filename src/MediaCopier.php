@@ -39,12 +39,12 @@ class MediaCopier {
       $rc = preg_match(self::$regexName, $line, $matches);
 
       $person_name = substr($line, 12, strpos(substr($line, 12), '-'));
-
+/*
       if ($matches[1][0] == ',')
-         $matches[1] = "UnknownSurname";   
-
-      return;
-
+         $matches[1] = "UnknownSurname";
+      else
+        $matches[1] = rtrim($matches[1], ",");  
+*/
       $fullpathFolder = $this->createTargetFolderName($matches[1], $matches[2]); 
 
       if (!is_dir($fullpathFolder)) 
@@ -57,13 +57,23 @@ class MediaCopier {
   // Returns full path to subdir: parent/subdir
   private function createTargetFolderName(string $surName, string $givenName) : string
   {
-     $surname = strtolower($surName);
+    if ($surName[0] == ',')
+
+      $subdir = "UnknownSurname";
+
+    else {
+
+      $surName = rtrim($surName, ",");  
+
+      $surname = strtolower($surName);
      
-     $surname = ucfirst($surname);
+      $surname = ucfirst($surname);
 
-     $subdir = $surname . "-" . $given; 
-
-     $fullpath = $this->dest_dir . "/" . $subdir;
+      $subdir = $surname . "-" . $givenName;     
+    }
+    echo $subdir . "\n";
+    
+    $fullpath = $this->dest_dir . "/" . $subdir;
 
      return $fullpath;
   }
