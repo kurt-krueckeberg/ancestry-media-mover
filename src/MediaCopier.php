@@ -35,6 +35,8 @@ class MediaCopier {
       // Choose substring where the surname begins   
       $person_name = substr($line, 12, strpos(substr($line, 12), '-'));
 
+      $person_name = ltrim($person_name);
+
       $fullpath = $this->createSubfolder($person_name); 
 
       $this->copy($fullpath, $this->media_file);
