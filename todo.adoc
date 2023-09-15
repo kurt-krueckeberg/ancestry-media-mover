@@ -1,7 +1,6 @@
 = Overview== Bug
 
-* Some of the image files have no surname! Perhaps make a MissingSurname folder?
-* About 20 or 30 files didn't get copied. See stderr output.
+* Many files are not put in a subfolder.
 
 == Todo
 
