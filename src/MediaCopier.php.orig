@@ -7,9 +7,6 @@ class MediaCopier {
   private string $media_file;
   private string $src_dir;
   private string $dest_dir;
-  //--static private string $regexName = "@^OwnerName\s+=\s+([,A-ZÖÄÜ][^,]+),\s*([^-]+)-@";
-
-  static private string $regexName = '/^OwnerName\s+=\s+(,|[^,]+,)\s*([^-]+)-/';
 
   public function __construct(string $srcDir, string $destDir)
   {
@@ -35,15 +32,8 @@ class MediaCopier {
     // Test for "OwnerName".
     } else if ($line[5] == 'N') {
 
-      // Choose substring where the surname begins
-      $rc = preg_match(self::$regexName, $line, $matches);
-
+      // Choose substring where the surname begins   
       $person_name = substr($line, 12, strpos(substr($line, 12), '-'));
-
-      if ($matches[1][0] == ',')
-         $debug = 10;
-
-      return;
 
       $person_name = ltrim($person_name);
 
@@ -53,6 +43,7 @@ class MediaCopier {
 
         $rc = mkdir($fullpathFolder, 0777);
 
+      if (!)
       $this->copy($fullpathFolder, $this->media_file);
     }
   }
