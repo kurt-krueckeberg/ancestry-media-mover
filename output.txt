@@ -32654,10 +32654,6 @@ MediaFile = Betty-Jane-peppler-Marriage_License-Application.jpg
 OwnerTypeDesc = Event
 OwnerName = PEPPLER, Betty J-2293: MARRIAGE LICENSE
 ------------------------
-MediaFile = Bio Find a Grave (E4A3225305FB492EA6D0AF4B65F722A3).jpg
-OwnerTypeDesc = Person
-OwnerName = BLEEKE, Johann Hartweg-2320
-------------------------
 MediaFile = Biographies of Organizers of Immanuel Lutheran, Decatur IN.pdf
 OwnerTypeDesc = Person
 OwnerName = BLEEKE, Carl Friedrich Johann Wilhelm-3272
@@ -36101,10 +36097,6 @@ OwnerName = THIEME, Johann Gottlieb-3258: JOHN G. THIEME OBITUARY IN FORT WAYNE 
 MediaFile = John George & Minnie Adams headstone.jpg
 OwnerTypeDesc = Person
 OwnerName = BEHRMAN, Wilhelmine "Minnie"-2374
-------------------------
-MediaFile = John Gumbert.jpg
-OwnerTypeDesc = Person
-OwnerName = PEPPLER, Elizabeth A-2069
 ------------------------
 MediaFile = John Henry & Emilie (Theime) Blakey.jpg
 OwnerTypeDesc = Person
@@ -41714,10 +41706,6 @@ MediaFile = Obituary of Daniel Bevelheimer (1835 - 1910).jpg
 OwnerTypeDesc = Person
 OwnerName = BEVELHEIMER, Daniel-3299
 ------------------------
-MediaFile = Obituary.jpg
-OwnerTypeDesc = Person
-OwnerName = KRUECKEBERG, Herman Martin Herman-1796
-------------------------
 MediaFile = obituary_elizbeth_bender_1847-to-1914.pdf
 OwnerTypeDesc = Person
 OwnerName = BENDER, Elizabeth-3190
@@ -42173,10 +42161,6 @@ OwnerName = THIEME, Engel-2403: PROF. C.J. STRIEDER CLAIMED IN DEATH
 MediaFile = Rev M C Baade.jpg
 OwnerTypeDesc = Person
 OwnerName = BAADA, Martin C-2341
-------------------------
-MediaFile = Rev.jpg
-OwnerTypeDesc = Person
-OwnerName = RUPPRECHT, Johann Paulus-2439
 ------------------------
 MediaFile = rhusa1862_101796-00477.jpg
 OwnerTypeDesc = Citation
